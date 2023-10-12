@@ -48,7 +48,12 @@ for(i=0;i<=3;i++) {
 		System.out.print(""+marks[i][j]+"\t");
 }
 System.out.print(sum[i]+"\t");
-System.out.print("P\t");
+ if(marks[i][0]>50&&marks[i][1]>50&&marks[i][2]>50){
+	 System.out.print("P\t");
+ }
+	else{
+		System.out.print("F\t");
+	}
 System.out.print(average[i]+"\t");
 
 System.out.println(grades[i]);
