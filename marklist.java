@@ -32,7 +32,7 @@ public class marklist {
 			 in.next();
 		}
 		System.out.println("Enter the student Roll Number: 104 ");
-		System.out.println("Enter the student name: Punbar" );
+		System.out.println("Enter the student name: Punar" );
 		System.out.println("");
 		System.out.println("Enter the Three Marks: 99 99 99");
 		System.out.println("The total is: 297");
