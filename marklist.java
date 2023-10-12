@@ -29,7 +29,6 @@ public class marklist {
 			 }
 			 else {grades[i]='F';
 				}
-			 in.next();
 		}
 		System.out.println("Enter the student Roll Number: 104 ");
 		System.out.println("Enter the student name: Punar" );
